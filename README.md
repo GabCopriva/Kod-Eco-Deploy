@@ -31,7 +31,7 @@ Oferecendo uma ampla variedade de produtos sustentáveis, desde cuidados pessoai
   
 ### Front-end
    
-- [x] Implemenntação dos componentes do Front-End (- Navbar 
+- [x] Implementação dos componentes do Front-End (- Navbar 
                                            - Footer
                                            - Home
                                            - Página de Login
